@@ -16,13 +16,19 @@ Just go to your Spotify account dashboard and create an __WEB APP__ using your u
 
 ## :hammer: __Basic Challenge__
 
-In the [__development notebook__](https://github.com/potacho/spotichallenge/blob/master/notebooks/spotify_rest_api_challenge.ipynb) you must create a a new spotify track list from any of the 12 artists listed. 
+In the [__development notebook__](https://github.com/potacho/spotichallenge/blob/master/notebooks/spotify_rest_api_challenge.ipynb) you must create a a new spotify track list from any of the 13 artists listed. 
 
 > __IMPORTANT:__ first you must get the related artist and the get the most popular songs from each of them in order to create the new list.
 
 ---
 
 ### :bulb: BONUS (yeah, there's always a Bonus  :see_no_evil:)
+
+You can create a new Playlist and fill it with your new track list using the `POST` method (further instructions in Notebook).
+
+---
+
+### :bulb: BONUS 2
 
 If you still feel strong, refactor your code and create a data pipeline (i.e.: `main.py`).
 
